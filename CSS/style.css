@@ -1,0 +1,20 @@
+.jumbotron {
+    background-color: black;
+    background-repeat: none;
+    position: absolute;
+
+    
+}
+.title {
+    position: absolute;
+    width: 1221px;
+    height: 63px;
+    left: 143px;
+    top: 140px;
+    font-family: 'Inter';
+    font-size: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 58px;
+    text-align: center;
+}
